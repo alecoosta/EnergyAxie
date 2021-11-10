@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: auto;
+}
+.main-container{
+    background-color: #e7e7e7;
+    margin: 0 auto;
+    max-width: 480px;
+    min-height: 4px;
+
+}
+.energy{
+    font-size: 45px;
+    text-align: center;
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+.btn{
+    background-color: #008cba; color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 23px;
+    margin: 4px;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+
+    
+}
+
+.round-info{
+    font-size: 30px;
+    text-align: center;
+    font-family:sans-serif;
+    padding: 5px;
+    
+}
+
+.round-number{
+    font-size: 30px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+#energyQuantity{
+    font-size: 60px;
+    text-align: center;
+}
